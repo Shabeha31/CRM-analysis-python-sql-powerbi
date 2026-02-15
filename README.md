@@ -71,7 +71,7 @@ This project simulates integrating and analyzing data similar to HubSpot and Sal
 ---
 
 ## 📂 Project Structure
-
+```
 CRM-Analysis/
 │
 ├── dashboard/                 
@@ -90,6 +90,8 @@ CRM-Analysis/
 │   ├── CRM_SQL_Query.sql
 │
 ├── README.md
+
+```
 
 ---
 
