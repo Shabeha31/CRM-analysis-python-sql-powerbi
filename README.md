@@ -1,21 +1,18 @@
 
 
 
-# 📊 CRM Performance Analytics Dashboard
+# 📊 CRM Performance Analytics
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![SQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Python](https://img.shields.io/badge/Data%20Processing-Python-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
 ## 📌 Project Overview
 
-This project delivers a comprehensive **CRM Performance Dashboard** built in Power BI to analyze sales pipeline efficiency, revenue performance, and customer value.  
-
-The objective is to transform raw CRM data into actionable business insights that support strategic sales and retention decisions.
+This project simulates integrating and analyzing data similar to HubSpot and Salesforce CRM systems, including leads, contacts, deals, and sales activities. The project has progressed through Python (ETL), SQL (analysis), and Power BI (visualization) phases. The objective is to transform raw CRM data into actionable business insights that support strategic sales and retention decisions.
 
 ---
 
@@ -40,7 +37,6 @@ The objective is to transform raw CRM data into actionable business insights tha
 
 ### 🔹 Revenue Trend Analysis
 - Monthly revenue performance
-- Seasonality detection
 - Growth comparison (MoM)
 
 ### 🔹 Sales Representative Performance
@@ -57,21 +53,11 @@ The objective is to transform raw CRM data into actionable business insights tha
 
 ## 🧠 Business Insights
 
-- Revenue remained stable with a temporary dip in October followed by strong Q4 recovery.
+- Revenue remained stable with a temporary dip in October followed by a strong recovery.
 - Sales performance is concentrated among top representatives.
-- Conversion rate (24%) indicates opportunity to improve early-stage qualification.
+- Conversion rate (24%) indicates an opportunity to improve early-stage qualification.
 - Minimal growth in average deal value suggests upselling potential.
 - CLV volatility signals potential customer retention risks.
-
----
-
-## 💡 Recommendations
-
-1. Improve lead qualification to increase funnel conversion.
-2. Upskill mid-performing sales reps using top-performer benchmarks.
-3. Implement upselling and cross-selling strategies.
-4. Focus on high-value customer retention initiatives.
-5. Monitor monthly performance trends proactively.
 
 ---
 
@@ -80,13 +66,13 @@ The objective is to transform raw CRM data into actionable business insights tha
 - **Power BI** – Data Modeling & Visualization  
 - **DAX** – KPI & Advanced Measures  
 - **MySQL** – Data Storage & Queries  
-- **Python (Pandas, SQLAlchemy)** – Data Cleaning & Integration  
+- **Python** – Data Cleaning & Integration  
 
 ---
 
 ## 📂 Project Structure
 
-CRM-Performance-Dashboard/
+CRM-Performance/
 │
 ├── Data/
 │ ├── cleaned_CRM_data.csv
