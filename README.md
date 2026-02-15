@@ -72,19 +72,24 @@ This project simulates integrating and analyzing data similar to HubSpot and Sal
 
 ## 📂 Project Structure
 
-CRM-Performance/
+CRM-Analysis/
 │
-├── Data/
-│ ├── cleaned_CRM_data.csv
+├── dashboard/                 
+│   └── CRM_Power_BI.pbix
 │
-├── SQL/
-│ ├── advanced_queries.sql
+├── data/                  
+│   ├── cleaned_CRM_marged_data.csv
+│   └── CRM_Analytics_Datasets.xls
+├── Img/                 
+│   └── CRM Dash img.png
 │
-├── PowerBI/
-│ ├── CRM_Power_BI.pbix
+├── Notebook/                 
+│   ├── CRM_Analysis_python_notebook.ipynb
 │
-└── README.md
-
+├── SQL Query/                
+│   ├── CRM_SQL_Query.sql
+│
+├── README.md
 
 ---
 
@@ -102,8 +107,8 @@ This dashboard enables:
 
 **Shabeha Khan**  
 📧 Shabehakhan31@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shabehazaman-khan-b18967328/)  
-💻 [GitHub](https://github.com/Shabeha31)
+🔗 LinkedIn: https://www.linkedin.com/in/shabehazaman-khan-b18967328/  
+💻 GitHub: https://github.com/Shabeha31 
 
 ---
 
